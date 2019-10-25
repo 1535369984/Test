@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: zxing-core-1.7.jar javax.mail.jar test.jar javax.mail.jar 
+ zxing-javase.jar fastjson-1.2.7.jar zxing-core-1.7.jar open-api-sdk-2
+ .0.jar jackson-core-asl-1.9.13.jar jackson-mapper-asl-1.9.13.jar jack
+ son-core-asl-1.9.13.jar open-api-sdk-2.0.jar zxing-javase.jar fastjso
+ n-1.2.7.jar jackson-mapper-asl-1.9.13.jar
+Main-Class: Test
+
